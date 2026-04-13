@@ -2,6 +2,9 @@
 
 namespace CreativeMinds.HumanAccount.OpenIdConnect {
 
+	/// <summary>
+	/// 
+	/// </summary>
 	public static class CustomClaim {
 		public const String AgeCheck13Plus = "http://human-account.com/claims/age_check_13_plus";
 		public const String AgeCheck15Plus = "http://human-account.com/claims/age_check_15_plus";
